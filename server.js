@@ -3,7 +3,7 @@ var express = require("express");
 
 // Create Instance of Express
 var app = express();
-var PORT = 9001;
+var PORT = process.env.PORT || 9001;
 
 
 app.use(express.static("./client"));
