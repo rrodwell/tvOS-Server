@@ -31,7 +31,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
                   <lockup videoURL="http://ryanrodwell.com/videos/advancedtrivia">
                     <img src="${this.BASEURL}images/advanced-trivia.png" width="500" height="308" />
                   </lockup>
-                  <lockup videoURL="http://ryanrodwell.com/videos/burger_demo">
+                  <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/advancedtrivia.mp4">
                     <img src="${this.BASEURL}images/eat-da-burger.png" width="500" height="308" />
                   </lockup>								
                   <lockup videoURL="http://www.rwdevcon.com/videos/Vicki-Wenderlich-Identity.mp4">
