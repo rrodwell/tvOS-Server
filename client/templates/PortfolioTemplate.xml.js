@@ -42,6 +42,10 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
                     <img src="${this.BASEURL}images/cheeriomongo.png" width="500" height="308" />
                   </lockup>
                   
+                  <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/bamazon.mp4">
+                    <img src="${this.BASEURL}images/bamazon.png" width="500" height="308" />
+                  </lockup>
+
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/burger.mp4">
                     <img src="${this.BASEURL}images/eat-da-burger.png" width="500" height="308" />
                   </lockup>
