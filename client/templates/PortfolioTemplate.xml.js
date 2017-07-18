@@ -73,11 +73,11 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
               <grid>
                 <section>
                      <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/gtdb.mp4">
-                        <img src="${this.BASEURL}images/illegal-formation.png" width="500" height="308" />
+                        <img src="${this.BASEURL}images/gtdb.png" width="500" height="308" />
                   </lockup>
                   
                      <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/peachpit.mp4">
-                        <img src="${this.BASEURL}images/illegal-formation.png" width="500" height="308" />
+                        <img src="${this.BASEURL}images/peachpit.png" width="500" height="308" />
                   </lockup>	
                 </section>
               </grid>
