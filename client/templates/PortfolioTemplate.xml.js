@@ -8,7 +8,8 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         <title>Samples of my work</title>
       </banner>
       <list> 
-        <section> 
+        <section>
+         
           <listItemLockup> 
             <title>Group Projects</title>
             <decorationLabel>3</decorationLabel>
@@ -18,9 +19,11 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
                      <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/illegalformation.mp4">
                         <img src="${this.BASEURL}images/illegal-formation.png" width="500" height="308" />
                   </lockup>
+                  
                      <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/illegalformation.mp4">
                         <img src="${this.BASEURL}images/illegal-formation.png" width="500" height="308" />
                   </lockup>	
+                  
                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/stylecast.mp4">
                         <img src="${this.BASEURL}images/stylecast.png" width="500" height="308" />
                      </lockup>	
@@ -28,13 +31,13 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
               </grid>
             </relatedContent>
           </listItemLockup>
+          
           <listItemLockup> 
             <title>Assignments</title>
             <decorationLabel>8</decorationLabel>
             <relatedContent> 
               <grid>
                 <section>
-                 
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/cheeriomongo.mp4">
                     <img src="${this.BASEURL}images/cheeriomongo.png" width="500" height="308" />
                   </lockup>
@@ -65,31 +68,34 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
                   								
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/psychicgame.mp4">
                     <img src="${this.BASEURL}images/psychic-game.png" width="500" height="308" />
-                  </lockup>	
-                  								
+                  </lockup>								
                 </section>
               </grid>
             </relatedContent>
           </listItemLockup>
+          
           <listItemLockup> 
             <title>Personal Projects</title>
             <decorationLabel>3</decorationLabel>
             <relatedContent> 
               <grid>
                 <section>
-                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/illegalformation.mp4">
+                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/gtdb.mp4">
                         <img src="${this.BASEURL}images/illegal-formation.png" width="500" height="308" />
                   </lockup>
-                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/illegalformation.mp4">
+                  
+                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/peachpit.mp4">
                         <img src="${this.BASEURL}images/illegal-formation.png" width="500" height="308" />
                   </lockup>	
-                    <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/stylecast.mp4">
+                  
+                    <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/prp.mp4">
                         <img src="${this.BASEURL}images/stylecast.png" width="500" height="308" />
                      </lockup>	
                 </section>
               </grid>
             </relatedContent>
           </listItemLockup>
+          
         </section>
       </list>
     </catalogTemplate>
