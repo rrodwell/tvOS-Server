@@ -16,8 +16,8 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
             <relatedContent> 
               <grid>
                 <section>
-                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/illegalformation.mp4">
-                        <img src="${this.BASEURL}images/illegal-formation.png" width="500" height="308" />
+                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/signaturefd.mp4">
+                        <img src="${this.BASEURL}images/signaturefd.png" width="500" height="308" />
                   </lockup>
                   
                      <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/illegalformation.mp4">
