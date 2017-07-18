@@ -34,7 +34,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
           
           <listItemLockup> 
             <title>Assignments</title>
-            <decorationLabel>6</decorationLabel>
+            <decorationLabel>7</decorationLabel>
             <relatedContent> 
               <grid>
                 <section>
