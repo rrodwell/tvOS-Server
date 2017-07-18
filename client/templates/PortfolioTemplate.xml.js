@@ -10,11 +10,14 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
       <list> 
         <section> 
           <listItemLockup> 
-            <title>Projects</title>
+            <title>Group Projects</title>
             <decorationLabel>3</decorationLabel>
             <relatedContent> 
               <grid>
-                <section> 
+                <section>
+                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/illegalformation.mp4">
+                        <img src="${this.BASEURL}images/illegal-formation.png" width="500" height="308" />
+                  </lockup>
                      <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/illegalformation.mp4">
                         <img src="${this.BASEURL}images/illegal-formation.png" width="500" height="308" />
                   </lockup>	
