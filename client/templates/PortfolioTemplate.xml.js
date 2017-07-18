@@ -34,9 +34,6 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/cheeriomongo.mp4">
                     <img src="${this.BASEURL}images/cheeriomongo.png" width="500" height="308" />
                   </lockup>
-                  <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/bamazon.mp4">
-                    <img src="${this.BASEURL}images/advanced-trivia.png" width="500" height="308" />
-                  </lockup>
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/nytreact.mp4">
                     <img src="${this.BASEURL}images/advanced-trivia.png" width="500" height="308" />
                   </lockup>
@@ -45,7 +42,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
                   </lockup> 
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/liri.mp4">
                     <img src="${this.BASEURL}images/node-liri.png" width="500" height="308" />
-                      </lockup>
+                  </lockup>
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/flashcards.mp4">
                     <img src="${this.BASEURL}images/node-flashcards.png" width="500" height="308" />
                   </lockup>
