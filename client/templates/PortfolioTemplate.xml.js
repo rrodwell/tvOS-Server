@@ -13,7 +13,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
               <grid>
                 <section>
                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/signaturefd.mp4">
-                        <img src="${this.BASEURL}images/signaturefd.png" width="500" height="308" />
+                        <img src="${this.BASEURL}images/advanced-trivia.png" width="500" height="308" />
                     </lockup>  
                      <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/illegalformation.mp4">
                         <img src="${this.BASEURL}images/illegal-formation.png" width="500" height="308" />
@@ -35,10 +35,10 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
                     <img src="${this.BASEURL}images/cheeriomongo.png" width="500" height="308" />
                   </lockup>
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/bamazon.mp4">
-                    <img src="${this.BASEURL}images/bamazon.png" width="500" height="308" />
+                    <img src="${this.BASEURL}images/advanced-trivia.png" width="500" height="308" />
                   </lockup>
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/nytreact.mp4">
-                    <img src="${this.BASEURL}images/nytreact.png" width="500" height="308" />
+                    <img src="${this.BASEURL}images/advanced-trivia.png" width="500" height="308" />
                   </lockup>
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/burger.mp4">
                     <img src="${this.BASEURL}images/eat-da-burger.png" width="500" height="308" />
@@ -57,8 +57,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
                   </lockup>
                   <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/psychicgame.mp4">
                     <img src="${this.BASEURL}images/psychic-game.png" width="500" height="308" />
-                  </lockup>									
-                  									
+                  </lockup>								
                 </section>
               </grid>
             </relatedContent>
@@ -70,13 +69,13 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
               <grid>
                 <section>
                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/gtdb.mp4>
-                        <img src="${this.BASEURL}images/gtdb.png" width="500" height="308" />
+                        <img src="${this.BASEURL}images/advanced-trivia.png" width="500" height="308" />
                     </lockup>  
                      <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/peachpit.mp4>
-                        <img src="${this.BASEURL}images/peachpit.png" width="500" height="308" />
+                        <img src="${this.BASEURL}images/advanced-trivia.png" width="500" height="308" />
                     </lockup>
                     <lockup videoURL="http://rr-portfolio-videos.s3.amazonaws.com/prp.mp4>
-                        <img src="${this.BASEURL}images/prp.png" width="500" height="308" />
+                        <img src="${this.BASEURL}images/advanced-trivia.png" width="500" height="308" />
                     </lockup>
                 </section>
               </grid>
